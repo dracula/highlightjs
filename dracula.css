@@ -34,9 +34,12 @@
   color: #f8f8f2;
 }
 
+.hljs-title {
+  color: #50fa7b;
+}
+
 .hljs-string,
 .hljs-meta,
-.hljs-title,
 .hljs-name,
 .hljs-type,
 .hljs-attribute,
