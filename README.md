@@ -26,22 +26,6 @@ function scare(who) {
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/highlightjs/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha) | [![Denis Ciccale](https://avatars0.githubusercontent.com/u/539546?v=3&s=70)](https://github.com/dciccale)
---- | --- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha) | [Denis Ciccale](https://github.com/dciccale)
-
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/highlightjs/graphs/contributors).
-
-[![Denis Ciccale](https://avatars0.githubusercontent.com/u/539546?v=3&s=70)](https://github.com/dciccale) |
---- | ---
-[Denis Ciccale](https://github.com/dciccale) |
-
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/highlightjs/graphs/contributors).
-
 [![Denis Ciccale](https://avatars0.githubusercontent.com/u/539546?v=3&s=70)](https://github.com/dciccale) |
 --- | ---
 [Denis Ciccale](https://github.com/dciccale) |
