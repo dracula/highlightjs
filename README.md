@@ -6,28 +6,14 @@
 
 ## Install
 
-1. Copy `dracula.css` to your desired directory.
-2. Include the theme in your html. `<link rel="stylesheet" href="dracula.css">`
-
-```html
-<!doctype html>
-<link rel="stylesheet" href="dracula.css">
-<script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-<pre><code class="javascript">
-// Scary function
-function scare(who) {
-  console.log(who, 'your blood is mine');
-}
-</code></pre>
-```
+All instructions can be found at [draculatheme.com/highlightjs](https://draculatheme.com/highlightjs).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/highlightjs/graphs/contributors).
 
 [![Denis Ciccale](https://avatars0.githubusercontent.com/u/539546?v=3&s=70)](https://github.com/dciccale) |
---- | ---
+--- |
 [Denis Ciccale](https://github.com/dciccale) |
 
 ## License
