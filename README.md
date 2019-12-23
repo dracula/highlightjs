@@ -2,7 +2,7 @@
 
 > A dark theme for [Highlight.js](http://highlightjs.org).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/highlightjs.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
