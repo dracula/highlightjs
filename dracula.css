@@ -33,7 +33,10 @@
   color: #f8f8f2;
 }
 
-.hljs-title {
+.hljs-title,
+.hljs-attr,
+.hljs-meta-keyword {
+  font-style: italic;
   color: #50fa7b;
 }
 
@@ -41,7 +44,6 @@
 .hljs-meta,
 .hljs-name,
 .hljs-type,
-.hljs-attr,
 .hljs-symbol,
 .hljs-bullet,
 .hljs-addition,
